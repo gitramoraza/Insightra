@@ -1,5 +1,6 @@
    altair
    pandas
+   plotly
    requests
    streamlit>=1.37
    yfinance
